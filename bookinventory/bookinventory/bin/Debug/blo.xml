@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <book>
+    <Title>The Seven Deaths of Evelyn Hardcastle</Title>
+    <Author>Stuart Turton</Author>
+    <ISBN>978-1-4088-8951-0</ISBN>
+    <Publicator>Raven Books</Publicator>
+    <Category />
+    <Genre>Mystery</Genre>
+    <Datepublication>2018-02-08T12:28:19</Datepublication>
+    <Available>4</Available>
+    <Description />
+    <Rate>0</Rate>
+    <Listrate />
+  </book>
+  <book>
+    <Title>The Humans</Title>
+    <Author>Matt Haig</Author>
+    <ISBN>978-1-4767-2791-2</ISBN>
+    <Publicator>Canongate Books</Publicator>
+    <Category />
+    <Genre>Humor</Genre>
+    <Datepublication>2013-05-09T12:28:19</Datepublication>
+    <Available>5</Available>
+    <Description />
+    <Rate>0</Rate>
+    <Listrate />
+  </book>
+  <book>
+    <Title>Harry Potter and the Sorcerer's Stone</Title>
+    <Author>J.K. Rowling</Author>
+    <ISBN>978-0-4397-0818-0</ISBN>
+    <Publicator>Bloomsbury Publishing</Publicator>
+    <Category />
+    <Genre>Fantasy</Genre>
+    <Datepublication>1997-06-26T13:29:36</Datepublication>
+    <Available>10</Available>
+    <Description />
+    <Rate>0</Rate>
+    <Listrate />
+  </book>
+  <book>
+    <Title>1984</Title>
+    <Author>George Orwell</Author>
+    <ISBN>978-0-1410-3614-4</ISBN>
+    <Publicator>Penguin Books</Publicator>
+    <Category />
+    <Genre>Science Fiction</Genre>
+    <Datepublication>1949-06-08T00:00:00</Datepublication>
+    <Available>6</Available>
+    <Description />
+    <Rate>0</Rate>
+    <Listrate />
+  </book>
+</ArrayOfBook>
